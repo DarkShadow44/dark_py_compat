@@ -1,0 +1,13 @@
+{
+   "name": "dark_py_compat",
+   "version": "0.0.1",
+   "title": "Dark's Py Compat",
+   "author": "DarkShadow44",
+   "dependencies": [
+	  "base >= 1.1.74",
+	  "IndustrialRevolution3",
+	  "pyalternativeenergy"
+   ],
+   "description": "Adds compatibility for Industrial Revolution 3",
+   "factorio_version": "1.1"
+}
